@@ -1,7 +1,7 @@
 # Banco_de_dados.4.1
 ## Select Case Subquery
 
-Consinuação da atividade https://github.com/GuiXado/Banco_de_dados.3.1
+Continuação da atividade https://github.com/GuiXado/Banco_de_dados.3.1
 
 Consultar:
 
